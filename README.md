@@ -1,2 +1,2 @@
 # uage
-uage come from language and it's a new program language.
+The name "uage" comes from "language" and it's a new programming language.
